@@ -310,14 +310,10 @@ The project is based on several core principles:
 ```text
 /
 ├── README.md
+├── LICENSE
+│
 ├── report/
 │   └── Heathrow_Information_Security_Report.pdf
 │
-├── risk-assessment/
-│   └── Risk_Assessment.xlsx
-│
-├── policy/
-│   └── Supplier_Security_Policy.pdf
-│
-└── supporting-material/
-    └── references.md
+└── risk-assessment/
+    └── Risk_Assessment.xlsx
